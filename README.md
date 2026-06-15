@@ -76,9 +76,7 @@ npm run dev
 
 ## Future Improvements
 
-* Cursor position preservation
 * Undo/Redo synchronization
-* Active toolbar state detection
 * Dark mode support
 
 ```
