@@ -4,6 +4,14 @@
 
 This project implements real-time bidirectional synchronization between two rich text editors rendered inside separate iframes. Since iframes are isolated browsing contexts, communication is achieved using the `window.postMessage` API, with the host page acting as a message broker.
 
+##Screenshots
+### Main Interface
+<img width="1918" height="657" alt="image" src="https://github.com/user-attachments/assets/4bead4c9-f42d-49c8-91af-cd717153de76" />
+
+### Action Log
+<img width="1707" height="598" alt="image" src="https://github.com/user-attachments/assets/0c5d2342-520b-4c0f-be9f-bd89c028469d" />
+
+
 ## Features
 
 * Two independent iframe-based rich text editors
