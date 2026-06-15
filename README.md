@@ -6,10 +6,11 @@ This project implements real-time bidirectional synchronization between two rich
 
 ## Screenshots
 ### Main Interface
-<img width="1918" height="657" alt="image" src="https://github.com/user-attachments/assets/4bead4c9-f42d-49c8-91af-cd717153de76" />
+<img width="1918" height="667" alt="image" src="https://github.com/user-attachments/assets/e80fde16-cf98-4ce5-9877-ece6652cd46b" />
 
 ### Action Log
-<img width="1707" height="598" alt="image" src="https://github.com/user-attachments/assets/0c5d2342-520b-4c0f-be9f-bd89c028469d" />
+<img width="1656" height="742" alt="image" src="https://github.com/user-attachments/assets/71f30383-a72b-459b-a0b2-08c2828af1ee" />
+
 
 
 ## Features
