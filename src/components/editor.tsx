@@ -59,7 +59,7 @@ export function Editor({frame}:{
             <h2>Frame {frame}</h2>
             <div className="flex items-center gap-2 text-sm font-semibold text-green-600 bg-white px-2 py-1 rounded-md border-slate-200 border">
                 <Connected />
-                <p>{syncStatus ? "Synced" : "Syncing"}</p>
+                <p>{syncStatus ? "Synced" : "Syncing..."}</p>
             </div>
         </div>
         <fieldset className="flex gap-2 p-2 border rounded-md  border-gray-400/60">
